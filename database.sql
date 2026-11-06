@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS db_tp_hibernate CHARACTER SET utf8mb4;
